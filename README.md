@@ -31,8 +31,8 @@ valN
 
 輸出：  
 AVL Tree:  
-    Root: 25  
-        L: 10  
+    -Root: 25  
+        -L: 10  
             L: 1  
             R: 20  
         R: 60  
