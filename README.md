@@ -31,17 +31,17 @@ valN
 
 輸出：  
 AVL Tree:  
-<div style="margin-left: 2em;">
-Root: 25<br>
-    L: 10<br>
-    L: 1<br>
-    R: 20<br>
-  R: 60<br>
-    L: 31<br>
-    R: 254<br>
-      L: 100<br>
-      R: 256
-</div>
+```
+- Root: 25
+    - L: 10
+        L: 1
+        R: 20
+    - R: 60
+        L: 31
+        R: 254
+            L: 100
+            R: 256
+```
 
 新增數值至AVL tree：11  
 AVL Tree:  
